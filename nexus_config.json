@@ -1,0 +1,19 @@
+﻿{
+  "widget_text": "Tervist, Steven! See on sinu kohandatud vidina tekst otse pilvest.",
+  "media_tracks": [
+    {
+      "id": "1",
+      "title": "Esimene Testlugu",
+      "artist": "Esitaja A",
+      "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "thumbnail_url": "https://picsum.photos/200"
+    },
+    {
+      "id": "2",
+      "title": "Teine Testlugu",
+      "artist": "Esitaja B",
+      "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "thumbnail_url": "https://picsum.photos/200"
+    }
+  ]
+}
